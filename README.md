@@ -8,4 +8,4 @@
 * [Lynda](https://www.lynda.com/Tableau-training-tutorials/2048-0.html)
 * [知乎](https://www.zhihu.com/question/29478254/answer/225991424)
 * [coursera](https://www.coursera.org/courses?languages=en&query=tableau)
-
+* [Medium](https://medium.com/tag/tableau)
