@@ -13,3 +13,14 @@
 * [知乎大神的作品集](https://public.tableau.com/profile/.7241#!/) 
 * [TutorialsPoints](https://www.tutorialspoint.com/tableau/index.htm)
 * [知乎专栏数据冰山](https://zhuanlan.zhihu.com/hemingke?group_id=939095898500911104)
+
+## How to get data
+* https://www.juhe.cn/
+* http://www.haoservice.com/
+* https://datasift.com/
+* https://tongji.baidu.com/web/welcome/login
+* http://www.apixanalytics.com/
+* http://api.datastory.com.cn/
+* http://www.bazhuayu.com/tutorialdetail-1/jyms.html
+
+## Python 爬虫
